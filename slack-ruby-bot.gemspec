@@ -23,5 +23,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rack-test'
   s.add_development_dependency 'vcr'
   s.add_development_dependency 'webmock'
-  s.add_development_dependency 'rubocop', '0.38.0'
+  s.add_development_dependency 'rubocop', '1.13.0'
 end
